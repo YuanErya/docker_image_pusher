@@ -1,4 +1,1 @@
-nginx
-redis
-openjdk:8-jre
-openjdk:17
+mysql
